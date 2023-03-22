@@ -136,7 +136,7 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author1**
+👤 **Ndonyi Maurice Djam**
 
 - GitHub: [NdonyiMaurice](https://github.com/citec-47)
 - Twitter: [@NdonyiMaurice](https://twitter.com/Ndonyi4)
