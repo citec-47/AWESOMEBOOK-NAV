@@ -57,10 +57,11 @@ After you're finished please remove all the comments and instructions!
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
+  <summary>Languages</summary>
   <ul>
     <li>Html</li>
     <li>Css</li>
+    <li>JavaScript</li>
   </ul>
 </details>
 
