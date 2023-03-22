@@ -142,6 +142,12 @@ Example:
 - Twitter: [@NdonyiMaurice](https://twitter.com/Ndonyi4)
 - LinkedIn: [NdonyiMaurice](https://www.linkedin.com/in/ndonyi-maurice-b5b49b22b/)
 
+### 👤 **Yosief G. Hailay**
+
+- GitHub: [@jossi30](https://github.com/jossi30)
+- Twitter: [@jossi30](https://twitter.com/jossi30_)
+- LinkedIn: [Yosief G. Hailay](https://www.linkedin.com/in/yosief-g-hailay-290277213/)
+
 
 <!-- FUTURE FEATURES -->
 
