@@ -48,7 +48,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome Books <a name="about-project"></a>
+# 📖 Awesome Books with modules <a name="about-project"></a>
 
 **This is the Awesome Books Project in order to show what we have learned so far at HTML, CSS and JS.**
 
